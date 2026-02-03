@@ -13,3 +13,23 @@ Preview the gif below to get a quick demo of github.dev in action.
 
 # Why?
 It’s a quick way to edit and navigate code. It's especially useful if you want to edit multiple files at a time or take advantage of all the powerful code editing features of Visual Studio Code when making a quick change. For more information, see our [documentation](https://github.co/codespaces-editor-help).
+
+
+## Search Experiments
+Try searching for the word "line"
+
+```
+Line
+line
+lines
+line 5
+line-7
+line72TODO
+line73.4
+end of line
+end-of-line
+outline
+linear
+```
+
+Go and check out this [Useful Resource](links.md) Page for very useful information!
